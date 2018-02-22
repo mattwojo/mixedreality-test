@@ -14,7 +14,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_whats-new.svg" alt="What's new icon" />
+                            <img src="/mixedreality-test/docs/icon_GetStarted.png" alt="Get started icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -39,7 +39,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_get-started.svg" alt="Get started icon" />
+                            <img src="/mixedreality-test/docs/icon_Interaction.png" alt="Interaction design icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -70,7 +70,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_management.svg" alt="Design icon" />
+                            <img src="/mixedreality-test/docs/icon_Style.png" alt="Style icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -98,7 +98,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_code-edit.svg" alt="Develop icon" />
+                            <img src="/mixedreality-test/docs/icon_AppPatterns.png" alt="App patterns icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -126,7 +126,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_build.svg" alt="Develop Games icon" />
+                            <img src="/mixedreality-test/docs/icon_Controls.png" alt="Controls icon" />
                         </div>
                     </div>
                     <div class="cardText">
