@@ -1,4 +1,4 @@
----
+ ---
 layout: LandingPage
 title:  Windows Mixed Reality Design
 description: test layout
@@ -39,7 +39,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/mixedreality-test/docs/icon_Interaction.png" alt="Interaction design icon" />
+                            <img src="/mixedreality-test/docs/icon_Interaction .png" alt="Interaction design icon" />
                         </div>
                     </div>
                     <div class="cardText">
