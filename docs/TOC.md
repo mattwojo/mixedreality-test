@@ -1,2 +1,2 @@
 # [Index](index.md)
-# [Design](DesignLanding.md)
+# [Design](designlanding.md)
