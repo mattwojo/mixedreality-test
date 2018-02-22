@@ -39,7 +39,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/mixedreality-test/docs/icon_Interaction .png" alt="Interaction design icon" />
+                            <img src="/docs/icon_Interaction .png" alt="Interaction design icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -70,7 +70,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/mixedreality-test/docs/icon_Style.png" alt="Style icon" />
+                            <img src="/docs/icon_Style.png" alt="Style icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -98,7 +98,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/mixedreality-test/docs/icon_AppPatterns.png" alt="App patterns icon" />
+                            <img src="/docs/icon_AppPatterns.png" alt="App patterns icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -126,7 +126,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/mixedreality-test/docs/icon_Controls.png" alt="Controls icon" />
+                            <img src="/docs/icon_Controls.png" alt="Controls icon" />
                         </div>
                     </div>
                     <div class="cardText">
