@@ -14,7 +14,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/mixedreality-test/docs/icon_GetStarted.png" alt="Get started icon" />
+                            <img src="/docs/icon_GetStarted.png" alt="Get started icon" />
                         </div>
                     </div>
                     <div class="cardText">
