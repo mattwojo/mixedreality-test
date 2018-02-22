@@ -18,15 +18,15 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>What's new</h3>
+                        <h3>Get started with Design</h3>
                         <p>
-                            <a href="whats-new/windows-10-build-16299.md">New APIs and features</a>
+                            <a href="whats-new/windows-10-build-16299.md">What is mixed reality?</a>
                         </p>
                         <p>
-                            <a href="whats-new/windows-docs-latest.md">What's new in the docs</a>
+                            <a href="whats-new/windows-docs-latest.md">About this guidance</a>
                         </p>
                         <p>
-                            <a href="whats-new/experimental-apis.md">Experimental APIs</a>
+                            <a href="whats-new/experimental-apis.md">The pursuit of more personal computing</a>
                         </p>
                     </div>
                 </div>
@@ -43,18 +43,21 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Get started</h3>
+                        <h3>Interaction design</h3>
                         <p>
-                            <a href="get-started/whats-a-uwp.md">What's a UWP app?</a>
+                            <a href="get-started/whats-a-uwp.md">Interaction fundamentals</a>
                         </p>
                         <p>
-                            <a href="get-started/sign-up.md">Sign up for a developer account</a>
+                            <a href="get-started/sign-up.md">Comfort</a>
                         </p>
                         <p>
-                            <a href="get-started/get-set-up.md">Get set up</a>
+                            <a href="get-started/get-set-up.md">Gaze targeting</a>
                         </p>
                         <p>
-                            <a href="get-started/your-first-app.md">Create your first app</a>
+                            <a href="get-started/your-first-app.md">Gestures</a>
+                        </p>
+                         <p>
+                            <a href="get-started/your-first-app.md">Voice design</a>
                         </p>
                     </div>
                 </div>
@@ -71,18 +74,18 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Design and UI</h3>
+                        <h3>Style</h3>
                         <p>
-                            <a href="design/basics/design-and-ui-intro.md">Design basics</a>
+                            <a href="design/basics/design-and-ui-intro.md">Color, light and materials</a>
                         </p>
                          <p>
-                            <a href="design/fluent-design-system/index.md">Fluent Design System</a>
+                            <a href="design/fluent-design-system/index.md">Spatial sound design</a>
                         </p>
                         <p>
-                            <a href="design/controls-and-patterns/index.md">Controls and patterns</a>
+                            <a href="design/controls-and-patterns/index.md">Typography</a>
                         </p>
                         <p>
-                            <a href="design/downloads/index.md">Design toolkits</a>
+                            <a href="design/downloads/index.md">Scale</a>
                         </p>                      
                     </div>
                 </div>
@@ -99,24 +102,18 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Develop apps</h3>
+                        <h3>App patterns</h3>
                         <p>
-                            <a href="enterprise/index.md">Enterprise apps</a>
+                            <a href="enterprise/index.md">Types of mixed reality apps</a>
                         </p>
                         <p>
-                            <a href="packaging/index.md">Packaging apps</a>
+                            <a href="packaging/index.md">Room scan visualization</a>
                         </p>
                         <p>
-                            <a href="porting/index.md">Porting apps to Windows 10</a>
+                            <a href="porting/index.md">Cursors</a>
                         </p>
                         <p>
-                            <a href="winrt-components/index.md">Windows Runtime components</a>
-                        </p>
-                        <p>
-                            <a href="apps-for-education/index.md">Education apps</a>
-                        </p>
-                        <p>
-                            <a href="porting/apps-on-arm.md">Windows 10 on ARM</a>
+                            <a href="winrt-components/index.md">Billboarding and tag-along</a>
                         </p>
                     </div>
                 </div>
@@ -133,115 +130,25 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Develop games</h3>
+                        <h3>Controls</h3>
                         <p>
-                            <a href="gaming/e2e.md">Windows 10 game development guide</a>
+                            <a href="gaming/e2e.md">Text in Unity</a>
                         </p>
                         <p>
-                            <a href="gaming/index.md">Game programming</a>
+                            <a href="gaming/index.md">Interactable object</a>
                         </p>
                         <p>
-                            <a href="gaming/directx-programming.md">DirectX programming</a>
+                            <a href="gaming/directx-programming.md">Object collection</a>
                         </p>
                         <p>
-                            <a href="xbox-apps/index.md">UWP on Xbox One</a>
+                            <a href="xbox-apps/index.md">Progress</a>
                         </p>
                         <p>
-                            <a href="xbox-live/index.md">Xbox Live</a>
+                            <a href="xbox-live/index.md">App bar and bounding box</a>
                         </p>
                     </div>
                 </div>
             </div>
         </div>
     </li>    
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_upgrade.svg" alt="Publish icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Publish</h3>
-                        <p>
-                            <a href="publish/app-submissions.md">App submissions</a>
-                        </p>
-                        <p>
-                            <a href="publish/the-app-certification-process.md">App certification process</a>
-                        </p>
-                        <p>
-                            <a href="publish/upload-app-packages.md">Upload app packages</a>
-                        </p>
-                        <p>
-                            <a href="publish/create-your-app-by-reserving-a-name.md">Reserve a name</a>
-                        </p>
-                        <p>
-                            <a href="publish/set-app-pricing-and-availability.md">Set app pricing and availability</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_api-reference.svg" alt="API Ref icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>API reference</h3>
-                        <p>
-                            <a href="//docs.microsoft.com/uwp/">Universal Windows Platform APIs</a>
-                        </p>
-                        <p>
-                            <a href="//docs.microsoft.com/uwp/API">Windows UWP namespaces</a>
-                        </p>
-                        <p>
-                            <a href="//docs.microsoft.com/uwp/extension-sdks">Extension SDKs</a>
-                        </p>
-                        <p>
-                            <a href="//docs.microsoft.com/uwp/schemas">Schemas</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="/media/common/i_multi-connect.svg" alt="Related links icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Related links</h3>
-                        <p>
-                            <a href="//docs.microsoft.com/uwp/win32-and-com/win32-and-com-for-uwp-apps">Win32 and COM APIs for UWP apps</a>
-                        </p>
-                        <p>
-                            <a href="//msdn.microsoft.com/library/windows/apps/mt185501.aspx">.NET for UWP apps</a>
-                        </p>
-                        <p>
-                            <a href="//msdn.microsoft.com/library/windows/apps/mt691886.aspx">Microsoft Store Services SDK APIs</a>
-                        </p>
-                        <p>
-                            <a href="//docs.microsoft.com/uwp/extension-sdks">Device Family Extension SDKs and API contracts</a>
-                        </p>
-                        <p>
-                            <a href="//docs.microsoft.com/uwp/schemas/">File and XML schema specifications for UWP apps</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
 </ul>
