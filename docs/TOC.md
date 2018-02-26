@@ -4,22 +4,22 @@
 
 # [Design](DesignLanding.md)
 ## Get started with design
-### What is mixed reality?
-### My first year on the design team
-### AfterNow's process - envisioning, prototyping, building
-### The pursuit of more personal computing
+### [What is mixed reality?](Interactable object.md)
+### [My first year on the design team](Interactable object.md)
+### [AfterNow's process - envisioning, prototyping, building](Interactable object.md)
+### [The pursuit of more personal computing](Interactable object.md)
 
 ## [Interaction design]
-### Interaction fundamentals
-### Comfort
-### Gaze targeting
-### Gestures
-### Voice design
-### Holograms
-### Holographic frame
-### Spatial mapping design
-### Spatial sound design
-### Motion controllers
+### [Interaction fundamentals](Interactable object.md)
+### [Comfort](Interactable object.md)
+### [Gaze targeting](Interactable object.md)
+### [Gestures](Interactable object.md)
+### [Voice design](Interactable object.md)
+### [Holograms](Interactable object.md)
+### [Holographic frame](Interactable object.md)
+### [Spatial mapping design](Interactable object.md)
+### [Spatial sound design](Interactable object.md)
+### [Motion controllers](Interactable object.md)
 
 ## [Style]
 ### Color, light and materials
@@ -37,7 +37,7 @@
 
 ## [Controls]
 ### Text in Unity
-### Interactable object
+### [Interactable object](Interactable object.md)
 ### Object collection
 ### Progress
 ### App bar and bounding box
