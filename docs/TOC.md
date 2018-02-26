@@ -53,5 +53,7 @@
 ## [Dev category 2]
 ## [Dev category 3]
 
-# [Design 4](DesignLanding-4.md)
-# [Index landing page style](index.md)
+
+# Other
+## [Design 4](DesignLanding-4.md)
+## [Index landing page style](index.md)
