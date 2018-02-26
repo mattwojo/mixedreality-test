@@ -160,8 +160,8 @@ This guidance is authored by Microsoft designers, developers, program managers, 
 <table style="border-collapse:collapse">
 
 	<tr>
-		<td style="border-style: none"><img src="mixedreality-test/docs/CommonControlGallery-test.PNG" alt="Common Control Gallery" width="80px"><br/>**[Common controls gallery](../layout/index.md)**<br/>What do common controls look like in Mixed Reality? How do they act? Check it out right here, or send them to the headset of your choice.</td>
-		<td style="border-style: none"><img src="docs/SampleApps-test.PNG" alt="Sample apps" width="80px"><br/>**[Sample apps](../style/index.md)**<br/>Explore and experiment with sample app experiences created for developers by the Windows Mixed Reality team. These apps showcase our approach to designing great experiences and highlight the opportunities in UI, interaction, and integrated services.</td>
+		<td style="border-style: none"><img src="mixedreality-test/docs/CommonControlGallery-test.PNG" alt="Common Control Gallery" width="50%"><br/>**[Common controls gallery](../layout/index.md)**<br/>What do common controls look like in Mixed Reality? How do they act? Check it out right here, or send them to the headset of your choice.</td>
+		<td style="border-style: none"><img src="docs/SampleApps-test.PNG" alt="Sample apps" width="50%"><br/>**[Sample apps](../style/index.md)**<br/>Explore and experiment with sample app experiences created for developers by the Windows Mixed Reality team. These apps showcase our approach to designing great experiences and highlight the opportunities in UI, interaction, and integrated services.</td>
 	</tr>
        
 </table>
