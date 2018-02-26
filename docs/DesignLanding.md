@@ -160,14 +160,8 @@ This guidance is authored by Microsoft designers, developers, program managers, 
 <table style="border-collapse:collapse">
 
 	<tr>
-		<td style="border-style: none"><img src="images/layout.png" alt="Layout" width="80px"><br/>**[Layout](../layout/index.md)**<br/>Structure your pages and add navigation elements.</td>
-		<td style="border-style: none"><img src="images/style.png" alt="Style" width="80px"><br/>**[Style](../style/index.md)**<br/>Use color, typography and Fluent Design features to create a stunning UI.</td>
-		<td style="border-style: none"><img src="images/controls.png" alt="Controls and patterns" width="80px"><br/>**[Controls](../controls-and-patterns/index.md)**<br/>Jumpstart your app with our extensive set of controls.</td>
+		<td style="border-style: none"><img src="images/layout.png" alt="Layout" width="80px"><br/>**[Common controls gallery](../layout/index.md)**<br/>What do common controls look like in Mixed Reality? How do they act? Check it out right here, or send them to the headset of your choice.</td>
+		<td style="border-style: none"><img src="images/style.png" alt="Style" width="80px"><br/>**[Sample apps](../style/index.md)**<br/>Explore and experiment with sample app experiences created for developers by the Windows Mixed Reality team. These apps showcase our approach to designing great experiences and highlight the opportunities in UI, interaction, and integrated services.</td>
 	</tr>
-    <tr>
-		<td style="border-style: none"><img src="images/inputs-devices.png" alt="Inputs and devices" width="80px"><br/>**[Input and devices](../input/index.md)**<br/>Customize how your app handles input and optimize it for specific devices.</td>
-		<td style="border-style: none"><img src="images/usability.png" alt="Usability" width="80px"><br/>**[Usability](../usability/index.md)**<br/>Make your app inclusive and easy to use for everyone.</td>
-		<td style="border-style: none"></td>
-        
-    </tr>         
+       
 </table>
