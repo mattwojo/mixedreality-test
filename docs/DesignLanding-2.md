@@ -1,6 +1,7 @@
 # Design guidance overview
 
 This guidance is authored by Microsoft designers, developers, program managers, and researchers, whose work spans holographic devices (like HoloLens) and immersive devices (like the Acer and HP Windows Mixed Reality headsets). So, consider this work as a set of topics for ‘how to design for Windows head-mounted displays’.
+
 <ul class="panelContent cardsF">
     <li>
         <div class="cardSize">
@@ -8,7 +9,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/hubs/windows/win_try-windows.svg" alt="Get started icon" />
+                            <img src="/media/common/i_whats-new.svg" alt="Get started icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -33,7 +34,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/hubs/windows/win_try-windows.svg" alt="Interaction design icon" />
+                            <img src="/media/common/i_whats-new.svg" alt="Interaction design icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +65,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/hubs/windows/win_try-windows.svg" alt="Style icon" />
+                            <img src="/media/common/i_whats-new.svg" alt="Style icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -92,7 +93,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/hubs/windows/win_try-windows.svg" alt="App patterns icon" />
+                            <img src="/media/common/i_whats-new.svg" alt="App patterns icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -120,7 +121,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/hubs/windows/win_try-windows.svg" alt="Controls icon" />
+                            <img src="/media/common/i_whats-new.svg" alt="Controls icon" />
                         </div>
                     </div>
                     <div class="cardText">
