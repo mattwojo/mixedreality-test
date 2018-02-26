@@ -177,7 +177,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_whats-new.svg" alt="Get started icon"/>
+                            <img src="icon_AppPatterns.png" alt="Get started icon"/>
                         </div>
                     </div>
                     <div class="cardText">
@@ -208,7 +208,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_whats-new.svg" alt="Get started icon"/>
+                            <img src="icon_GetStarted.png" alt="Get started icon"/>
                         </div>
                     </div>
                     <div class="cardText">
