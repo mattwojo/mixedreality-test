@@ -130,7 +130,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/media/common/i_whats-new.svg" alt="Controls icon" />
+                            <img src="icon_Controls.png" alt="Controls icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -162,8 +162,8 @@ This guidance is authored by Microsoft designers, developers, program managers, 
 <table style="border-collapse:collapse">
 
 	<tr>
-		<td style="border-style: none" width="50%"><img src="mixedreality-test/docs/CommonControlGallery-test.png " alt="Common Control Gallery"><br/>**[Common controls gallery](../layout/index.md)**<br/>What do common controls look like in Mixed Reality? How do they act? Check it out right here, or send them to the headset of your choice.</td>
-		<td style="border-style: none"><img src="docs/SampleApps-test.png " alt="Sample apps"><br/>**[Sample apps](../style/index.md)**<br/>Explore and experiment with sample app experiences created for developers by the Windows Mixed Reality team. These apps showcase our approach to designing great experiences and highlight the opportunities in UI, interaction, and integrated services.</td>
+		<td style="border-style: none" width="50%"><img src="CommonControlGallery-test.png" alt="Common Control Gallery"><br/>**[Common controls gallery](../layout/index.md)**<br/>What do common controls look like in Mixed Reality? How do they act? Check it out right here, or send them to the headset of your choice.</td>
+		<td style="border-style: none"><img src="SampleApps-test.png" alt="Sample apps"><br/>**[Sample apps](../style/index.md)**<br/>Explore and experiment with sample app experiences created for developers by the Windows Mixed Reality team. These apps showcase our approach to designing great experiences and highlight the opportunities in UI, interaction, and integrated services.</td>
 	</tr>
        
 </table>
