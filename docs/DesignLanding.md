@@ -1,4 +1,3 @@
-
 ---
 layout: LandingPage
 title:  Windows Mixed Reality Layout Tests
