@@ -1,3 +1,4 @@
+
 ---
 layout: LandingPage
 title:  Windows Mixed Reality Layout Tests
@@ -8,6 +9,8 @@ keywords: mixed reality developer docs
 # Design guidance overview
 
 This guidance is authored by Microsoft designers, developers, program managers, and researchers, whose work spans holographic devices (like HoloLens) and immersive devices (like the Acer and HP Windows Mixed Reality headsets). So, consider this work as a set of topics for ‘how to design for Windows head-mounted displays’.
+
+## Article categories
 
 <ul class="panelContent cardsF">
     <li>
@@ -165,3 +168,69 @@ This guidance is authored by Microsoft designers, developers, program managers, 
 	</tr>
        
 </table>
+
+## Design tools
+
+<ul class="panelContent cardsF">
+    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_whats-new.svg" alt="Get started icon"/>
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Get started with Design</h3>
+                        <p>
+                            <a href="whats-new/windows-10-build-16299.md">HoloSketch</a>
+                        </p>
+                        <p>
+                            <a href="whats-new/windows-docs-latest.md">Inclusive design at Microsoft</a>
+                        </p>
+                        <p>
+                            <a href="whats-new/experimental-apis.md">Fluent Design System</a>
+                        </p>
+			 <p>
+                            <a href="whats-new/experimental-apis.md">UWP app design and UI</a>
+                        </p>
+			 <p>
+                            <a href="whats-new/experimental-apis.md">3D design tools from Simplygon</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
+        <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="/media/common/i_whats-new.svg" alt="Get started icon"/>
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Mixed Reality Toolkit (on GitHub)</h3>
+                        <p>
+                            <a href="whats-new/windows-10-build-16299.md">Sharing</a>
+                        </p>
+                        <p>
+                            <a href="whats-new/windows-docs-latest.md">Spatial input</a>
+                        </p>
+                        <p>
+                            <a href="whats-new/experimental-apis.md">UnityEditorMotionControllerModel</a>
+                        </p>
+			 <p>
+                            <a href="whats-new/experimental-apis.md">Readme.md</a>
+                        </p>
+			 <p>
+                            <a href="whats-new/experimental-apis.md">Microphone Stream Selector</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>
