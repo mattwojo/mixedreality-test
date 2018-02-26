@@ -8,7 +8,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/docs/icon_GetStarted.png" alt="Get started icon" />
+                            <img src="/media/hubs/windows/win_try-windows.svg" alt="Get started icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -33,7 +33,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/docs/icon_Interaction .png" alt="Interaction design icon" />
+                            <img src="/media/hubs/windows/win_try-windows.svg" alt="Interaction design icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -64,7 +64,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/docs/icon_Style.png" alt="Style icon" />
+                            <img src="/media/hubs/windows/win_try-windows.svg" alt="Style icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -92,7 +92,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/docs/icon_AppPatterns.png" alt="App patterns icon" />
+                            <img src="/media/hubs/windows/win_try-windows.svg" alt="App patterns icon" />
                         </div>
                     </div>
                     <div class="cardText">
@@ -120,7 +120,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="/docs/icon_Controls.png" alt="Controls icon" />
+                            <img src="/media/hubs/windows/win_try-windows.svg" alt="Controls icon" />
                         </div>
                     </div>
                     <div class="cardText">
