@@ -3,13 +3,14 @@
 # Get started
 
 # [Design](DesignLanding.md)
+
 ## Get started with design
 ### [What is mixed reality?](Interactable object.md)
 ### [My first year on the design team](Interactable object.md)
 ### [AfterNow's process - envisioning, prototyping, building](Interactable object.md)
 ### [The pursuit of more personal computing](Interactable object.md)
 
-## [Interaction design]
+## Interaction design
 ### [Interaction fundamentals](Interactable object.md)
 ### [Comfort](Interactable object.md)
 ### [Gaze targeting](Interactable object.md)
@@ -21,34 +22,34 @@
 ### [Spatial sound design](Interactable object.md)
 ### [Motion controllers](Interactable object.md)
 
-## [Style]
-### Color, light and materials
-### Spatial sound design
-### Typography
-### Scale
-### Case study - Spatial sound design for HoloTour
+## Style
+### [Color, light and materials](Interactable object.md)
+### [Spatial sound design](Interactable object.md)
+### [Typography](Interactable object.md)
+### [Scale](Interactable object.md)
+### [Case study - Spatial sound design for HoloTour](Interactable object.md)
 
-## [App patterns]
-### Types of mixed reality apps
-### Room scan visualization
-### Cursors
-### Billboarding and tag-along
-### Updating your existing universal app for HoloLens
+## App patterns
+### [Types of mixed reality apps](Interactable object.md)
+### [Room scan visualization](Interactable object.md)
+### [Cursors](Interactable object.md)
+### [Billboarding and tag-along](Interactable object.md)
+### [Updating your existing universal app for HoloLens](Interactable object.md)
 
-## [Controls]
-### Text in Unity
+## Controls
+### [Text in Unity](Interactable object.md)
 ### [Interactable object](Interactable object.md)
-### Object collection
-### Progress
-### App bar and bounding box
+### [Object collection](Interactable object.md)
+### [Progress](Interactable object.md)
+### [App bar and bounding box](Interactable object.md)
 
-## [Sample apps]
-### Periodic Table of the Elements
-### Lunar Module
-### Galaxy Explorer
-### Case study - Scaling Datascape across devices with different performance
+## Sample apps
+### [Periodic Table of the Elements](Interactable object.md)
+### [Lunar Module](Interactable object.md)
+### [Galaxy Explorer](Interactable object.md)
+### [Case study - Scaling Datascape across devices with different performance](Interactable object.md)
 
-# [Develop]
+# Develop
 ## [Dev category 1]
 ## [Dev category 2]
 ## [Dev category 3]
