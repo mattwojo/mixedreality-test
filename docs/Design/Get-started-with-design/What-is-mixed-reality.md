@@ -4,4 +4,4 @@ title: What is mixed reality?
 author: randyw
 ---
 
-# What is mixed reality
+# What is mixed reality?
