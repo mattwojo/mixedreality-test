@@ -24,13 +24,13 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                     <div class="cardText">
                         <h3>Get started with Design</h3>
                         <p>
-                            <a href="whats-new/windows-10-build-16299.md">What is mixed reality?</a>
+                            <a href="Design/Get-started-with-design/What-is-mixed-reality.md">What is mixed reality?</a>
                         </p>
                         <p>
-                            <a href="whats-new/windows-docs-latest.md">About this guidance</a>
+                            <a href="Design/Get-started-with-design/My-first-year-on-the-design-team.md">About this guidance</a>
                         </p>
                         <p>
-                            <a href="whats-new/experimental-apis.md">The pursuit of more personal computing</a>
+                            <a href="Design/Get-started-with-design/The-pursuit-of-more-personal-computing.md">The pursuit of more personal computing</a>
                         </p>
                     </div>
                 </div>
@@ -49,19 +49,19 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                     <div class="cardText">
                         <h3>Interaction design</h3>
                         <p>
-                            <a href="get-started/whats-a-uwp.md">Interaction fundamentals</a>
+                            <a href="Design/Interaction-design/Interaction-fundamentals.md">Interaction fundamentals</a>
                         </p>
                         <p>
-                            <a href="get-started/sign-up.md">Comfort</a>
+                            <a href="Design/Interaction-design/Comfort.md">Comfort</a>
                         </p>
                         <p>
-                            <a href="get-started/get-set-up.md">Gaze targeting</a>
+                            <a href="Design/Interaction-design/Gaze-targeting.md">Gaze targeting</a>
                         </p>
                         <p>
-                            <a href="get-started/your-first-app.md">Gestures</a>
+                            <a href="Design/Interaction-design/Gestures.md">Gestures</a>
                         </p>
                          <p>
-                            <a href="get-started/your-first-app.md">Voice design</a>
+                            <a href="Design/Interaction-design/Voice-design.md">Voice design</a>
                         </p>
                     </div>
                 </div>
