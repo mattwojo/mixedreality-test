@@ -5,7 +5,7 @@
 # [Design](DesignLanding.md)
 
 ## Get started with design
-### [What is mixed reality?](Get started with design/What is mixed reality.md)
+### [What is mixed reality?](docs/Design/Get started with design/What is mixed reality.md)
 ### [My first year on the design team](Get started with design/My first year on the design team.md)
 ### [AfterNow's process - envisioning, prototyping, building](Get started with design/AfterNow's process - envisioning, prototyping, building.md)
 ### [The pursuit of more personal computing](Get started with design/The pursuit of more personal computing.md)
