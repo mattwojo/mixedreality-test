@@ -5,22 +5,22 @@
 # [Design](DesignLanding.md)
 
 ## Get started with design
-### [What is mixed reality?](/Design/Get started with design/What is mixed reality.md)
-### [My first year on the design team](/Design/Get started with design/My first year on the design team.md)
-### [AfterNow's process - envisioning, prototyping, building](/Design/Get started with design/AfterNow's process - envisioning, prototyping, building.md)
-### [The pursuit of more personal computing](/Design/Get started with design/The pursuit of more personal computing.md)
+### [What is mixed reality?](Design/Get started with design/What is mixed reality.md)
+### [My first year on the design team](Design/Get started with design/My first year on the design team.md)
+### [AfterNow's process - envisioning, prototyping, building](Design/Get started with design/AfterNow's process - envisioning, prototyping, building.md)
+### [The pursuit of more personal computing](Design/Get started with design/The pursuit of more personal computing.md)
 
 ## Interaction design
-### [Interaction fundamentals](/Design/Interaction design/Interaction fundamentals.md)
-### [Comfort](/Design/Interaction design/Comfort.md)
-### [Gaze targeting](/Design/Interaction design/Gaze targeting.md)
-### [Gestures](/Design/Interaction design/Gestures.md)
-### [Voice design](/Design/Interaction design/Voice design.md)
-### [Holograms](/Design/Interaction design/Holograms.md)
-### [Holographic frame](/Design/Interaction design/Holographic frame.md)
-### [Spatial mapping design](/Design/Interaction design/Spatial mapping design.md)
-### [Spatial sound design](/Design/Interaction design/Spatial sound design.md)
-### [Motion controllers](/Design/Interaction design/Motion controllers.md)
+### [Interaction fundamentals](Design/Interaction design/Interaction fundamentals.md)
+### [Comfort](Design/Interaction design/Comfort.md)
+### [Gaze targeting](Design/Interaction design/Gaze targeting.md)
+### [Gestures](Design/Interaction design/Gestures.md)
+### [Voice design](Design/Interaction design/Voice design.md)
+### [Holograms](Design/Interaction design/Holograms.md)
+### [Holographic frame](Design/Interaction design/Holographic frame.md)
+### [Spatial mapping design](Design/Interaction design/Spatial mapping design.md)
+### [Spatial sound design](Design/Interaction design/Spatial sound design.md)
+### [Motion controllers](Design/Interaction design/Motion controllers.md)
 
 ## Style
 ### [Color, light and materials](Interactable object.md)
