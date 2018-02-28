@@ -10,8 +10,12 @@ author: randyw
 <table style="border-collapse:collapse">
 
 	<tr>
-		<td style="border-style: none" width="50%"><img src="CommonControlGallery-test.png" width="100%" alt="Common Control Gallery"><br/>**[Common controls gallery](../layout/index.md)**<br/>What do common controls look like in Mixed Reality? How do they act? Check it out right here, or send them to the headset of your choice.</td>
-		<td style="border-style: none"><img src="SampleApps-test.png" width="100%" alt="Sample apps"><br/>**[Sample apps](../style/index.md)**<br/>Explore and experiment with sample app experiences created for developers by the Windows Mixed Reality team. These apps showcase our approach to designing great experiences and highlight the opportunities in UI, interaction, and integrated services.</td>
+		<td style="border-style: none" width="33%"><img src="../images/PeriodicTableofElementsApp-tile.jpg" width="100%" alt="Periodic Table of the Elements"><br/>**[Periodic Table of the Elements](Periodic-Table-of-the-Elements.md)**<br/>Learn how to lay out an array of objects in 3D space with various surface types using an Object collection.</td>
+
+		<td style="border-style: none" width="33%"><img src="../images/Lunar-Module-tile.png" width="100%" alt="Lunar Module"><br/>**[Lunar Module](Lunar-Module.md)**<br/>Learn how to extend Hololens' base gestures with two-handed tracking and Xbox controller input.</td>
+
+		<td style="border-style: none" width="33%"><img src="../images/Galaxyexplorer-tile.jpg" width="100%" alt="Galaxy Explorer"><br/>**[Galaxy Explorer](Galaxy-Explorer.md)**<br/>The Galaxy Explorer Project is ready. You shared your ideas with the community, chose an app, watched a team build it, and can now get the source code.</td>
+
 	</tr>
-       
+
 </table>
