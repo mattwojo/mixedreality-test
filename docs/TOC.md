@@ -43,7 +43,7 @@
 ### [Progress](Interactable object.md)
 ### [App bar and bounding box](Interactable object.md)
 
-## Sample apps
+## [Sample apps](Design/Sample-apps/sample-apps.md)
 ### [Periodic Table of the Elements](Interactable object.md)
 ### [Lunar Module](Interactable object.md)
 ### [Galaxy Explorer](Interactable object.md)
