@@ -47,7 +47,7 @@
 ### [Periodic Table of the Elements](Design/Sample-apps/Periodic-Table-of-the-Elements.md)
 ### [Lunar Module](Design/Sample-apps/Lunar-Module.md)
 ### [Galaxy Explorer](Design/Sample-apps/Galaxy-Explorer.md)
-### [Case study - Scaling Datascape across devices with different performance](Design/Sample-apps/Case study-Scaling-Datascape-across-devices-with-different-performance.md)
+### [Case study - Scaling Datascape across devices with different performance](Design/Sample-apps/Case-study-Scaling-Datascape-across-devices-with-different-performance.md)
 
 # Develop
 ## [Dev category 1]
