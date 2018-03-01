@@ -14,7 +14,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
  <tr>
 <td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/minicliffhouse.jpg" alt="Get started" width="250" height="220"></A>
  
-Read our high-level thoughts and understand the principles we follow.
+<p>Read our high-level thoughts and understand the principles we follow.</p>
                           <p>
                             <a href="Design/Get-started-with-design/What-is-mixed-reality.md">What is mixed reality?</a>
                         </p>
