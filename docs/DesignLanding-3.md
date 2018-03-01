@@ -1,3 +1,10 @@
+---
+layout: LandingPage
+title:  Windows Mixed Reality Layout Tests
+description: A place to test docs platform layouts for the Mixed Reality docs.
+keywords: mixed reality developer docs 
+---
+
 # Design guidance overview
 
 This guidance is authored by Microsoft designers, developers, program managers, and researchers, whose work spans holographic devices (like HoloLens) and immersive devices (like the Acer and HP Windows Mixed Reality headsets). So, consider this work as a set of topics for ‘how to design for Windows head-mounted displays’.
