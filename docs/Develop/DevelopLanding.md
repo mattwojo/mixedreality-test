@@ -174,6 +174,21 @@ Mixed reality experiences are enabled by new Windows features for environmental 
 
 The tools you use will depend on the type of app you want to build.
 
-2D apps can use any tools for building Universal Windows Apps suited for environments like Windows Phone, PC and tablets. These apps are experienced as 2D projections and can work across multiple device types.
-Immersive and holographic apps need tools designed to take advantage of the Windows Mixed Reality APIs. In particular, if building an app we recommend using Unity. Developers interested in building their own engine can use DirectX and other Windows APIs.
+- 2D apps can use any tools for building Universal Windows Apps suited for environments like Windows Phone, PC and tablets. These apps are experienced as 2D projections and can work across multiple device types.
+- Immersive and holographic apps need tools designed to take advantage of the Windows Mixed Reality APIs. In particular, if building an app we recommend using Unity. Developers interested in building their own engine can use DirectX and other Windows APIs.
  
+Regardless of the type of app you're building, these tools will facilitate your app development experience:
+
+- Visual Studio and the Windows SDK
+- Windows Device Portal
+- HoloLens emulator
+- Mixed reality simulator
+
+## See also
+
+- Install the tools
+- Holographic Academy tutorials
+- Open source projects
+- Holograms 100
+- Windows Mixed Reality minimum PC hardware compatibility guidelines
+- Submitting an app to the Windows Store
