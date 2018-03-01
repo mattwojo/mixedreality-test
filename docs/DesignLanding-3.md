@@ -9,12 +9,12 @@ keywords: mixed reality developer docs
 
 This guidance is authored by Microsoft designers, developers, program managers, and researchers, whose work spans holographic devices (like HoloLens) and immersive devices (like the Acer and HP Windows Mixed Reality headsets). So, consider this work as a set of topics for ‘how to design for Windows head-mounted displays’.
 
+## Article categories
+
  <table>
  <tr><th>Get started with design</th><th>Interaction design</th><th>Style</th></tr>
  <tr>
 <td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/minicliffhouse.jpg" alt="Get started" width="250" height="220"></A>
- 
-<p>Read our high-level thoughts and understand the principles we follow.</p>
                           <p>
                             <a href="Design/Get-started-with-design/What-is-mixed-reality.md">What is mixed reality?</a>
                         </p>
@@ -54,6 +54,17 @@ width="250" height="220"></A>
  </p>
 </td>
 
+<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/character.jpg" alt="App patterns" width="250" height="220"></A>
+                         <p>
+                            <a href="enterprise/index.md">Types of mixed reality apps</a>
+                        </p>
+                        <p>
+                            <a href="packaging/index.md">Room scan visualization</a>
+                        </p>
+                        <p>
+                            <a href="porting/index.md">Cursors</a>
+                        </p>
+ </td>
  </tr>
  
   <tr><th>App patterns</th><th>Controls</th><th>Sample apps</th></tr>
