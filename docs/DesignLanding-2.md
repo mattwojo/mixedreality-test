@@ -189,7 +189,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
 </ul>
 
 
-## Design tools
+## Resources
 
 <ul class="panelContent cardsF">
     <li>
@@ -202,7 +202,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Get started with Design</h3>
+                        <h3>Design tools</h3>
                         <p>
                             <a href="whats-new/windows-10-build-16299.md">HoloSketch</a>
                         </p>
