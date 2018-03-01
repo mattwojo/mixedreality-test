@@ -17,7 +17,7 @@ Explore and experiment with sample app experiences created for developers by the
 
 		<td style="border-style:none;" width="33%"><img src="images/Lunar-Module-tile.png" width="100%" alt="Lunar Module"><br/>**[Lunar Module](Lunar-Module.md)**<br/>Learn how to extend Hololens' base gestures with two-handed tracking and Xbox controller input.</td>
 
-		<td style="border-style:none;" width="33%"><img src="images/Galaxyexplorer-tile.jpg" width="100%" alt="Galaxy Explorer"><br/>**[Galaxy Explorer](Galaxy-Explorer.md)**<br/>The Galaxy Explorer Project is ready. You shared your ideas with the community, chose an app, watched a team build it, and can now get the source code.</td>
+		<td style="border-style:none;"><img src="images/Galaxyexplorer-tile.jpg" width="100%" alt="Galaxy Explorer"><br/>**[Galaxy Explorer](Galaxy-Explorer.md)**<br/>The Galaxy Explorer Project is ready. You shared your ideas with the community, chose an app, watched a team build it, and can now get the source code.</td>
 
 	</tr>
 	
