@@ -8,7 +8,7 @@ author: randyw
 
 Explore and experiment with sample app experiences created for developers by the Windows Mixed Reality team. These apps showcase our approach to designing great experiences and highlight the opportunities in UI, interaction, and integrated services.
 
-
+## Gallery
 
 <table style="border-collapse:collapse">
 
