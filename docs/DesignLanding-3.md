@@ -32,7 +32,7 @@ width="250" height="220"></A>
                         <p>
                             <a href="Design/Interaction-design/Interaction-fundamentals.md">Interaction fundamentals</a>
                         </p>
-                        <p>
+<p>
                             <a href="Design/Interaction-design/Comfort.md">Comfort</a>
                         </p>
                         <p>
@@ -65,6 +65,11 @@ width="250" height="220"></A>
                             <a href="porting/index.md">Cursors</a>
                         </p>
  </td>
+ </table>
+ 
+ <br><br>
+ 
+  <table style="border-collapse:collapse;">
  </tr>
  
   <tr><th>App patterns</th><th>Controls</th><th>Sample apps</th></tr>
