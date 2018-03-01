@@ -23,7 +23,7 @@ Explore and experiment with sample app experiences created for developers by the
 	
 	
 	<tr>
-		<td style="border-style: none" width="33%"><img src="images/PeriodicTableofElementsApp-tile.jpg" width="100%" alt="Periodic Table of the Elements"><br/>**[Periodic Table of the Elements](Periodic-Table-of-the-Elements.md)**<br/>Learn how to lay out an array of objects in 3D space with various surface types using an Object collection.</td>
+		<td style="border-style: none" width="33%"><img src="images/Datascape-tile.png" width="100%" alt="Periodic Table of the Elements"><br/>**[Case study - Scaling Datascape across devices with different performance](Case-study-Scaling-Datascape-across-devices-with-different-performance.md)**<br/>Datascape is a Windows Mixed Reality application developed internally at Microsoft where we focused on displaying weather data on top of terrain data.</td>
 	</tr>
 
 </table>
