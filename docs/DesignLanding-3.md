@@ -5,7 +5,18 @@ This guidance is authored by Microsoft designers, developers, program managers, 
  <table>
  <tr><th>Get started with design</th><th>Interaction design</th><th>Style</th></tr>
  <tr>
-<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/minicliffhouse.jpg" alt="Get started" width="250" height="220"></A></td>
+<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/minicliffhouse.jpg" alt="Get started" width="250" height="220"></A>
+                          <p>
+                            <a href="Design/Get-started-with-design/What-is-mixed-reality.md">What is mixed reality?</a>
+                        </p>
+                        <p>
+                            <a href="Design/Get-started-with-design/My-first-year-on-the-design-team.md">About this guidance</a>
+                        </p>
+                        <p>
+                            <a href="Design/Get-started-with-design/The-pursuit-of-more-personal-computing.md">The pursuit of more personal computing</a>
+  
+  </td>
+  
 <td><A href="Design/Interaction-design/Interaction-fundamentals.md"><img src="Design/images/bot.jpg" alt="Interaction design" 
 width="250" height="220"></A></td>
 <td><A href="Design/Interaction-design/Comfort.md"><img src="Design/images/controls.jpg" alt="Style" 
