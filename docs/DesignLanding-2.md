@@ -1,4 +1,4 @@
- ---
+---
 layout: LandingPage
 title:  Windows Mixed Reality Layout Tests
 description: A place to test docs platform layouts for the Mixed Reality docs.
