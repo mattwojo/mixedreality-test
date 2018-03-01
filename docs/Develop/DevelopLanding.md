@@ -187,7 +187,7 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                 </div>
             </div>
         </div>
-    </li
+    </li>
 </ul>
 
 
