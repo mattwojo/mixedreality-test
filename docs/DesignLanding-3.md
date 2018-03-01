@@ -14,7 +14,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
  <table style="border-collapse:collapse;">
  <tr><th>Get started with design</th><th>Interaction design</th><th>Style</th><th>App patterns</th></tr>
  <tr>
-<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/minicliffhouse.jpg" alt="Get started" width="250" height="220"></A>
+<td style="border-style:none;"><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/minicliffhouse.jpg" alt="Get started" width="250" height="220"></A>
                           <p>
                             <a href="Design/Get-started-with-design/What-is-mixed-reality.md">What is mixed reality?</a>
                         </p>
@@ -27,7 +27,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
   
   </td>
   
-<td><A href="Design/Interaction-design/Interaction-fundamentals.md"><img src="Design/images/bot.jpg" alt="Interaction design" 
+<td style="border-style:none;"><A href="Design/Interaction-design/Interaction-fundamentals.md"><img src="Design/images/bot.jpg" alt="Interaction design" 
 width="250" height="220"></A>
                         <p>
                             <a href="Design/Interaction-design/Interaction-fundamentals.md">Interaction fundamentals</a>
@@ -41,7 +41,7 @@ width="250" height="220"></A>
 
 </td>
 
-<td><A href="Design/Interaction-design/Comfort.md"><img src="Design/images/controls.jpg" alt="Style" 
+<td style="border-style:none;"><A href="Design/Interaction-design/Comfort.md"><img src="Design/images/controls.jpg" alt="Style" 
 width="250" height="220"></A>
                         <p>
                             <a href="design/basics/design-and-ui-intro.md">Color, light and materials</a>
@@ -54,7 +54,7 @@ width="250" height="220"></A>
  </p>
 </td>
 
-<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/bot.jpg" alt="App patterns" width="250" height="220"></A>
+<td style="border-style:none;"><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/bot.jpg" alt="App patterns" width="250" height="220"></A>
                          <p>
                             <a href="enterprise/index.md">Types of mixed reality apps</a>
                         </p>
