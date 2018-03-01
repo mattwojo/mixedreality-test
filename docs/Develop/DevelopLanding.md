@@ -163,7 +163,7 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                 <div class="card">
                     <div class="cardImageOuter">
                         <div class="cardImage">
-                            <img src="../icon_Controls.png" alt="Controls icon" />
+                            <img src="../icon_GetStarted.png" alt="Controls icon" />
                         </div>
                     </div>
                     <div class="cardText">
