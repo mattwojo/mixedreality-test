@@ -64,12 +64,11 @@ width="250" height="220"></A>
                         <p>
                             <a href="porting/index.md">Cursors</a>
                         </p>
+  <br><br>
  </td>
- </table>
  
- <br><br>
- 
-  <table style="border-collapse:collapse;">
+
+
  </tr>
  
   <tr><th>App patterns</th><th>Controls</th><th>Sample apps</th></tr>
