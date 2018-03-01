@@ -156,7 +156,38 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                 </div>
             </div>
         </div>
-    </li>    
+    </li> 
+        <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="../icon_Controls.png" alt="Controls icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>API reference</h3>
+                        <p>
+                            <a href="gaming/e2e.md">Windows.Graphics.Holographic</a>
+                        </p>
+                        <p>
+                            <a href="gaming/index.md">Windows.Perceptionw</a>
+                        </p>
+                        <p>
+                            <a href="gaming/directx-programming.md">Windows.Perception.Spatial</a>
+                        </p>
+                        <p>
+                            <a href="xbox-apps/index.md">Windows.Perception.Spatial.Surfaces</a>
+                        </p>
+                        <p>
+                            <a href="xbox-live/index.md">Windows.UI.Input.Spatial</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li
 </ul>
 
 
