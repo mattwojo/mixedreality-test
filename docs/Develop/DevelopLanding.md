@@ -22,15 +22,15 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Get started with Design</h3>
+                        <h3>Basics</h3>
                         <p>
-                            <a href="Design/Get-started-with-design/What-is-mixed-reality.md">What is mixed reality?</a>
+                            <a href="Design/Get-started-with-design/What-is-mixed-reality.md">Navigating the Windows Mixed Reality home</a>
                         </p>
                         <p>
-                            <a href="Design/Get-started-with-design/My-first-year-on-the-design-team.md">About this guidance</a>
+                            <a href="Design/Get-started-with-design/Coordinate systems">About this guidance</a>
                         </p>
                         <p>
-                            <a href="Design/Get-started-with-design/The-pursuit-of-more-personal-computing.md">The pursuit of more personal computing</a>
+                            <a href="Design/Get-started-with-design/The-pursuit-of-more-personal-computing.md">Gestures</a>
                         </p>
                     </div>
                 </div>
@@ -47,21 +47,21 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Interaction design</h3>
+                        <h3>Getting started</h3>
                         <p>
-                            <a href="Design/Interaction-design/Interaction-fundamentals.md">Interaction fundamentals</a>
+                            <a href="Design/Interaction-design/Interaction-fundamentals.md">Install the tools</a>
                         </p>
                         <p>
-                            <a href="Design/Interaction-design/Comfort.md">Comfort</a>
+                            <a href="Design/Interaction-design/Comfort.md">Immersive headset setup</a>
                         </p>
                         <p>
-                            <a href="Design/Interaction-design/Gaze-targeting.md">Gaze targeting</a>
+                            <a href="Design/Interaction-design/Gaze-targeting.md">Development overview</a>
                         </p>
                         <p>
-                            <a href="Design/Interaction-design/Gestures.md">Gestures</a>
+                            <a href="Design/Interaction-design/Gestures.md">Using Visual Studio</a>
                         </p>
                          <p>
-                            <a href="Design/Interaction-design/Voice-design.md">Voice design</a>
+                            <a href="Design/Interaction-design/Voice-design.md">Using the Windows Mixed Reality simulator</a>
                         </p>
                     </div>
                 </div>
@@ -78,18 +78,18 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Style</h3>
+                        <h3>Hardware</h3>
                         <p>
-                            <a href="design/basics/design-and-ui-intro.md">Color, light and materials</a>
+                            <a href="design/basics/design-and-ui-intro.md">HoloLens hardware details</a>
                         </p>
                          <p>
-                            <a href="design/fluent-design-system/index.md">Spatial sound design</a>
+                            <a href="design/fluent-design-system/index.md">Immersive headset hardware details</a>
                         </p>
                         <p>
-                            <a href="design/controls-and-patterns/index.md">Typography</a>
+                            <a href="design/controls-and-patterns/index.md">Motion controllers</a>
                         </p>
                         <p>
-                            <a href="design/downloads/index.md">Scale</a>
+                            <a href="design/downloads/index.md"Hardware accessories</a>
                         </p>                      
                     </div>
                 </div>
@@ -106,18 +106,18 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>App patterns</h3>
+                        <h3>Building 2D apps</h3>
                         <p>
-                            <a href="enterprise/index.md">Types of mixed reality apps</a>
+                            <a href="enterprise/index.md">Building 2D apps</a>
                         </p>
                         <p>
-                            <a href="packaging/index.md">Room scan visualization</a>
+                            <a href="packaging/index.md">Current limitations for apps using APIs from the shell</a>
                         </p>
                         <p>
-                            <a href="porting/index.md">Cursors</a>
+                            <a href="porting/index.md">DirectX development overview</a>
                         </p>
                         <p>
-                            <a href="winrt-components/index.md">Billboarding and tag-along</a>
+                            <a href="winrt-components/index.md">App views</a>
                         </p>
                     </div>
                 </div>
@@ -134,21 +134,21 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                         </div>
                     </div>
                     <div class="cardText">
-                        <h3>Controls</h3>
+                        <h3>Building immersive apps</h3>
                         <p>
-                            <a href="gaming/e2e.md">Text in Unity</a>
+                            <a href="gaming/e2e.md">Unity development overview</a>
                         </p>
                         <p>
-                            <a href="gaming/index.md">Interactable object</a>
+                            <a href="gaming/index.md">Vuforia development overview</a>
                         </p>
                         <p>
-                            <a href="gaming/directx-programming.md">Object collection</a>
+                            <a href="gaming/directx-programming.md">Performance recommendations for HoloLens apps</a>
                         </p>
                         <p>
-                            <a href="xbox-apps/index.md">Progress</a>
+                            <a href="xbox-apps/index.md">App views</a>
                         </p>
                         <p>
-                            <a href="xbox-live/index.md">App bar and bounding box</a>
+                            <a href="xbox-live/index.md">App model</a>
                         </p>
                     </div>
                 </div>
