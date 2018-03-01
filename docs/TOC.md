@@ -49,7 +49,7 @@
 ### [Galaxy Explorer](Design/Sample-apps/Galaxy-Explorer.md)
 ### [Case study - Scaling Datascape across devices with different performance](Design/Sample-apps/Case-study-Scaling-Datascape-across-devices-with-different-performance.md)
 
-# [Develop](DevelopLanding.md)
+# [Develop](Develop/DevelopLanding.md)
 ## [Dev category 1]
 ## [Dev category 2]
 ## [Dev category 3]
