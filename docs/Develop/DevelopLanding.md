@@ -89,7 +89,7 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
                             <a href="design/controls-and-patterns/index.md">Motion controllers</a>
                         </p>
                         <p>
-                            <a href="design/downloads/index.md"Hardware accessories</a>
+                            <a href="design/downloads/index.md">Hardware accessories</a>
                         </p>                      
                     </div>
                 </div>
