@@ -167,7 +167,7 @@ Mixed reality apps are built with the Universal Windows Platform. All mixed real
 
 Mixed reality experiences are enabled by new Windows features for environmental understanding. These enable developers to place a hologram in the real world, and allow users to move through digital worlds by literally walking about. These are the fundamental building blocks for mixed reality development.
 
-<br><br>
+<br>
 <iframe width="854" height="480" src="https://www.youtube.com/embed/2MqGrF6JaOM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ## Tools for developing for mixed reality
