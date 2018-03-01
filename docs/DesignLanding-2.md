@@ -185,37 +185,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
             </div>
         </div>
     </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                        <div class="cardImage">
-                            <img src="icon_Controls.png" alt="Controls icon" />
-                        </div>
-                    </div>
-                    <div class="cardText">
-                        <h3>Sample apps</h3>
-                        <p>
-                            <a href="gaming/e2e.md">Text in Unity</a>
-                        </p>
-                        <p>
-                            <a href="gaming/index.md">Interactable object</a>
-                        </p>
-                        <p>
-                            <a href="gaming/directx-programming.md">Object collection</a>
-                        </p>
-                        <p>
-                            <a href="xbox-apps/index.md">Progress</a>
-                        </p>
-                        <p>
-                            <a href="xbox-live/index.md">App bar and bounding box</a>
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>    
+
 </ul>
 
 
@@ -283,4 +253,29 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 </div>
             </div>
         </div>
+	    <li>
+        <div class="cardSize">
+            <div class="cardPadding">
+                <div class="card">
+                    <div class="cardImageOuter">
+                        <div class="cardImage">
+                            <img src="icon_Controls.png" alt="Controls icon" />
+                        </div>
+                    </div>
+                    <div class="cardText">
+                        <h3>Sample apps</h3>
+                        <p>
+                            <a href="gaming/e2e.md">Periodic Table of the Elements</a>
+                        </p>
+                        <p>
+                            <a href="gaming/index.md">Lunar Module</a>
+                        </p>
+                        <p>
+                            <a href="gaming/directx-programming.md">Galaxy Explorer</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </li>    
     </li>
