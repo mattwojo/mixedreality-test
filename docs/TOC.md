@@ -50,9 +50,22 @@
 ### [Case study - Scaling Datascape across devices with different performance](Design/Sample-apps/Case-study-Scaling-Datascape-across-devices-with-different-performance.md)
 
 # [Develop](Develop/DevelopLanding.md)
-## [Dev category 1]
-## [Dev category 2]
-## [Dev category 3]
+
+## Basics
+### Navigating the Windows Mixed Reality home
+### Coordinate systems
+### Gaze
+### Gestures
+### Voice input
+### Motion controllers
+### Spatial sound
+### Spatial mapping
+### App quality criteria
+
+## Getting started
+## Hardware
+## Building 2D apps
+## Building immersive apps
 
 
 # Other
