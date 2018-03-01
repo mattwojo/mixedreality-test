@@ -54,7 +54,7 @@ width="250" height="220"></A>
  </p>
 </td>
 
-<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/character.jpg" alt="App patterns" width="250" height="220"></A>
+<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/bot.jpg" alt="App patterns" width="250" height="220"></A>
                          <p>
                             <a href="enterprise/index.md">Types of mixed reality apps</a>
                         </p>
