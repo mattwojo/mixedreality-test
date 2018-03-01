@@ -69,7 +69,7 @@ width="250" height="220"></A>
  
   <tr><th>App patterns</th><th>Controls</th><th>Sample apps</th></tr>
  <tr>
-<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/character.jpg" alt="App patterns" width="250" height="220"></A>
+<td style="border-style:none;"><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/character.jpg" alt="App patterns" width="250" height="220"></A>
                          <p>
                             <a href="enterprise/index.md">Types of mixed reality apps</a>
                         </p>
@@ -81,7 +81,7 @@ width="250" height="220"></A>
                         </p>
  </td>
  
-<td><A href="Design/Interaction-design/Interaction-fundamentals.md"><img src="Design/images/instagram.jpg" alt="Controls" 
+<td style="border-style:none;"><A href="Design/Interaction-design/Interaction-fundamentals.md"><img src="Design/images/instagram.jpg" alt="Controls" 
 width="250" height="220"></A>
                         <p>
                             <a href="gaming/e2e.md">Text in Unity</a>
@@ -93,7 +93,7 @@ width="250" height="220"></A>
                             <a href="gaming/directx-programming.md">Object collection</a>
                         </p>
 </td>
-<td><A href="Design/Interaction-design/Comfort.md"><img src="Design/images/cube.jpg" alt="Sample apps" 
+<td style="border-style:none;"><A href="Design/Interaction-design/Comfort.md"><img src="Design/images/cube.jpg" alt="Sample apps" 
 width="250" height="220"></A>
                         <p>
                             <a href="gaming/e2e.md">Text in Unity</a>
