@@ -11,5 +11,14 @@ width="250px" height="220px"></A></td>
 <td><A href="Design/Interaction-design/Comfort.md"><img src="Design/images/controls.jpg" alt="Style" 
 width="250px" height="220px"></A></td>
  </tr>
+ 
+  <tr><th>App patterns</th><th>Controls</th><th>Sample apps</th></tr>
+ <tr>
+<td><a href="Design/Get-started-with-design/What-is-mixed-reality.md"><img src="Design/images/character.jpg" alt="App patterns" width="250px" height="220px"></A></td>
+<td><A href="Design/Interaction-design/Interaction-fundamentals.md"><img src="Design/images/instagram.jpg" alt="Controls" 
+width="250px" height="220px"></A></td>
+<td><A href="Design/Interaction-design/Comfort.md"><img src="Design/images/cube.jpg" alt="Sample apps" 
+width="250px" height="220px"></A></td>
+ </tr>
 
  </table>
