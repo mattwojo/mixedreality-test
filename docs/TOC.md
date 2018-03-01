@@ -56,5 +56,6 @@
 
 
 # Other
+## [Design 3](DesignLanding-3.md)
 ## [Design 4](DesignLanding-4.md)
 ## [Index landing page style](index.md)
