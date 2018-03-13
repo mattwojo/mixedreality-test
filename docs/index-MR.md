@@ -102,7 +102,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
 
 ---
 
-<h2>Resources/h2>
+<h2>Resources</h2>
 
 <ul class="panelContent cardsF">
     <li>
