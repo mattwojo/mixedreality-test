@@ -94,3 +94,4 @@
 ## [Design 4](DesignLanding-4.md)
 ## [Index landing page style](index.md)
 ## [Mixed Reality index page](index-MR.md)
+## [Mixed Reality index page 2](index-MR-2.md)
