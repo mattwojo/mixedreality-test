@@ -10,14 +10,14 @@ keywords: mixed reality developer docs
 Mixed reality blends real-world and virtual content into hybrid environments where physical and digital objects coexist and interact.
 
 <br>
-<ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-left: 0px;">
+<ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-top: 0px;">
                             <li>
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1 cardScaleImage x-hidden-focus" style="background-  image: url("icon_GetStarted.png");>
-                                                        <img data-scaleimage="icon_GetStarted.png" alt role="What's new icon"                                                               style="display: none;">
+                                                    <div class="cardImage">
+                                                        <img src="icon_Style.png" alt="Design icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
