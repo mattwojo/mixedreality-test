@@ -16,12 +16,12 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage"; style="background-position: 0px 0px;">
+                                                    <div class="cardImage">
                                                         <img src="icon_Style.png" alt="Design icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3 class="x-hidden-focus">What's new</h3>
+                                                    <h3>What's new</h3>
                                                     <p>Get the latest on new APIs and features, what's new in the docs and experimental                                             work.</p>
                                                 </div>
                                             </div>
