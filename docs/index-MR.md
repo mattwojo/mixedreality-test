@@ -16,7 +16,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1 cardScaleImage x-hidden-focus" style="background-image: url("/media/hubs/windows/win_developer-desktop.svg");>
+                                                    <div class="cardImage bgdAccent1 cardScaleImage x-hidden-focus">
                                                         <img src="icon_GetStarted.png" alt="What's new icon" />
                                                     </div>
                                                 </div>
