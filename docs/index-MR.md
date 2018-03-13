@@ -98,9 +98,8 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                   </div>
                               </div>
                             </li>
+ </ul>
 
-
----
 
 <h2>Resources</h2>
 
