@@ -10,19 +10,19 @@ keywords: mixed reality developer docs
 Mixed reality blends real-world and virtual content into hybrid environments where physical and digital objects coexist and interact.
 
 <br>
-<ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-top: 0px;">
+<ul id="cardtypes-A" class="cardsA panelContent" style="display: flex; margin-left: 0px;">
                             <li>
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1 cardScaleImage x-hidden-focus">
-                                                        <img src="icon_GetStarted.png" alt="What's new icon" />
+                                                    <div class="cardImage bgdAccent1 cardScaleImage x-hidden-focus" style="background-  image: url("icon_GetStarted.png");>
+                                                        <img data-scaleimage="icon_GetStarted.png" alt role="What's new icon"                                                               style="display: none;">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
                                                     <h3 class="x-hidden-focus">What's new</h3>
-                                                    <p>Get the latest on new APIs and features, what's new in the docs and experimental work.</p>
+                                                    <p>Get the latest on new APIs and features, what's new in the docs and experimental                                             work.</p>
                                                 </div>
                                             </div>
                                         </div>
