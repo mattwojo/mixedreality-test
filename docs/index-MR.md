@@ -34,7 +34,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="/media/illustrations/biztalk-get-started-get-started.svg" alt="Get started" />
+                                                        <img src="icon_Style.png" alt="Get started" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
