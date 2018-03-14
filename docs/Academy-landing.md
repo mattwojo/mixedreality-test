@@ -138,7 +138,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                                       <div class="card">
                                           <div class="cardImageOuter">
                                               <div class="cardImage">
-                                                  <img src="Academy/images/Holograms220.jpg" alt="Holograms 220: Spatial sound icon">
+                                                  <img src="Academy/images/Holograms220b.jpg" alt="Holograms 220: Spatial sound icon">
                                               </div>
                                           </div>
                                           <div class="cardText">
