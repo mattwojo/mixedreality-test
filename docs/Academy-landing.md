@@ -17,7 +17,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="Academy/images/Holograms100.jpg" alt="Design icon" />
+                                                        <img src="Academy/images/Holograms100.jpg" alt="Holograms 100 icon">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -34,7 +34,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="icon_Style.png" alt="Get started" />
+                                                        <img src="Academy/images/Holograms100.jpg" alt="Holograms 100 icon">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -52,7 +52,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="icon_Style.png" alt="Design icon" />
+                                                        <img src="Academy/images/Holograms100.jpg" alt="Holograms 100 icon">
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
@@ -70,7 +70,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                       <div class="card">
                                           <div class="cardImageOuter">
                                               <div class="cardImage">
-                                                  <img src="icon_Style.png" alt="Development icon" />
+                                                  <img src="Academy/images/Holograms100.jpg" alt="Holograms 100 icon">
                                               </div>
                                           </div>
                                           <div class="cardText">
@@ -87,7 +87,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                       <div class="card">
                                           <div class="cardImageOuter">
                                               <div class="cardImage">
-                                                  <img src="icon_Style.png" alt="Academy icon" />
+                                                  <img src="Academy/images/Holograms100.jpg" alt="Holograms 100 icon">
                                               </div>
                                           </div>
                                           <div class="cardText">
