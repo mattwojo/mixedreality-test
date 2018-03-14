@@ -12,6 +12,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
 <br>
 <ul id="cardtypes-C" class="cardsC panelContent" style="display: flex; margin-top: 0px;">
                             <li>
+                                    <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -29,6 +30,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                                     </div>
                             </li>
                             <li>
+                                <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
@@ -65,6 +67,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                                </a>
                             </li>
                             <li>
+                             <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -82,6 +85,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                               </div>
                             </li>
                             <li>
+                            <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -99,6 +103,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                               </div>
                             </li>         
                             <li>
+                             <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -116,6 +121,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                               </div>
                             </li>
                              <li>
+                              <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -133,6 +139,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                               </div>
                             </li>   
                               <li>
+                              <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -150,6 +157,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                               </div>
                             </li>      
                                <li>
+                               <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -167,6 +175,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                               </div>
                             </li> 
                                 <li>
+                                <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
@@ -184,6 +193,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                               </div>
                             </li> 
                                  <li>
+                                   <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                               <div class="cardSize">
                                   <div class="cardPadding">
                                       <div class="card">
