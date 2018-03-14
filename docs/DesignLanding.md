@@ -13,6 +13,11 @@ This guidance is authored by Microsoft designers, developers, program managers, 
 
 :::row:::
     :::column:::
+        ![Get started icon](Design/images/icon_GetStarted.png)
+        ### Get started with Design
+        [What is mixed reality?](Design/Get-started-with-design/What-is-mixed-reality.md)
+    :::column-end:::
+    :::column:::
         ![Some image](http://via.placeholder.com/1000x150)
         ### Hello, title
         This is where your content goes.
