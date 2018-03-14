@@ -5,9 +5,9 @@ description: A place to test docs platform layouts for the Mixed Reality docs.
 keywords: mixed reality developer docs 
 ---
 
-# Windows Mixed Reality documentation
+# Academy overview
 
-Mixed reality blends real-world and virtual content into hybrid environments where physical and digital objects coexist and interact.
+With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
 
 <br>
 <ul id="cardtypes-C" class="cardsC panelContent" style="display: flex; margin-top: 0px;">
