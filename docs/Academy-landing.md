@@ -17,7 +17,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage">
+                                                    <div class="cardImage bgdAccent1">
                                                         <img src="Academy/images/Holograms100.jpg" alt="Holograms 100 icon">
                                                     </div>
                                                 </div>
