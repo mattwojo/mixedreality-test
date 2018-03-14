@@ -1,7 +1,5 @@
 # Mixed Reality Developer Docs
-
 ## Get started
-
 ## [Academy](Academy-landing.md)
 ### [Holograms 100: Getting started with Unity](Interactable object.md)
 ### [Holograms 101E: Introduction with Emulator](Interactable object.md)
@@ -13,7 +11,6 @@
 ### [Holograms 230: Spatial mapping](Interactable object.md)
 ### [Holograms 240: Sharing holograms](Interactable object.md)
 ### [Mixed Reality 250: Sharing mixed reality](Interactable object.md)
-
 ## [Design](DesignLanding.md)
 ### Get started with design
 #### [What is mixed reality?](Design/Get-started-with-design/What-is-mixed-reality.md)
@@ -54,7 +51,6 @@
 #### [Lunar Module](Design/Sample-apps/Lunar-Module.md)
 #### [Galaxy Explorer](Design/Sample-apps/Galaxy-Explorer.md)
 #### [Case study - Scaling Datascape across devices with different performance](Design/Sample-apps/Case-study-Scaling-Datascape-across-devices-with-different-performance.md)
-
 ## [Develop](Develop/DevelopLanding.md)
 ### Basics
 #### Navigating the Windows Mixed Reality home
@@ -89,7 +85,6 @@
 #### Article 3
 #### Article 4
 #### Article 5
-
 ### Other
 #### [Design 2](DesignLanding-2.md)
 #### [Design 3](DesignLanding-3.md)
