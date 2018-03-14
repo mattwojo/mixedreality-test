@@ -10,7 +10,7 @@ keywords: mixed reality developer docs
 With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
 
 <br>
-<ul id="cardtypes-C" class="cardsC panelContent" style="display: flex; margin-top: 0px;">
+<ul id="cardtypes-W" class="cardsW panelContent" style="display: flex; margin-top: 0px;">
                             <li>
                                     <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
                                     <div class="cardSize">
