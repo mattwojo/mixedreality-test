@@ -11,6 +11,20 @@ This guidance is authored by Microsoft designers, developers, program managers, 
 
 ## Article categories
 
+:::row:::
+    :::column:::
+        ![Some image](http://via.placeholder.com/1000x150)
+        ### Hello, title
+        This is where your content goes.
+    :::column-end:::
+    :::column:::
+        ![Some image](http://via.placeholder.com/1000x150)
+        ### Hello, title
+        This is where your content goes.
+    :::column-end:::
+:::row-end:::
+
+
 <ul class="panelContent cardsF">
     <li>
         <div class="cardSize">
