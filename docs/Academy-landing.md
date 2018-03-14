@@ -121,7 +121,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                                       <div class="card">
                                           <div class="cardImageOuter">
                                               <div class="cardImage">
-                                                  <img src="Academy/images/Holograms213.jpg" alt="Mixed Reality 213: Motion controllers icon">
+                                                  <img src="Academy/images/MR213v2.jpg" alt="Mixed Reality 213: Motion controllers icon">
                                               </div>
                                           </div>
                                           <div class="cardText">
@@ -189,7 +189,7 @@ With the Mixed Reality Academy, get hands on with code, tutorials and lessons.
                                       <div class="card">
                                           <div class="cardImageOuter">
                                               <div class="cardImage">
-                                                  <img src="Academy/images/Holograms250.jpg" alt="Mixed Reality 250: Sharing mixed reality icon">
+                                                  <img src="Academy/images/MR250-new.jpg" alt="Mixed Reality 250: Sharing mixed reality icon">
                                               </div>
                                           </div>
                                           <div class="cardText">
