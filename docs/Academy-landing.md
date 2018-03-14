@@ -10,19 +10,19 @@ keywords: mixed reality developer docs
 Mixed reality blends real-world and virtual content into hybrid environments where physical and digital objects coexist and interact.
 
 <br>
-<ul id="cardtypes-E" class="cardsE panelContent" style="display: flex; margin-top: 0px;">
+<ul id="cardtypes-C" class="cardsC panelContent" style="display: flex; margin-top: 0px;">
                             <li>
                                     <div class="cardSize">
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="icon_Style.png" alt="Design icon" />
+                                                        <img src="Academy/images/Holograms100.jpg" alt="Design icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3 class="x-hidden-focus">What's new</h3>
-                                                    <p>Get the latest on new APIs and features, what's new in the docs and experimental                                             work.</p>
+                                                    <h3>Holograms 100: Getting started with Unity</h3>
+                                                    <p>GWe will walk you through creating a basic holographic app built with Unity. This project can then serve as a starting template for any holographic app you might want to build in Unity.</p>
                                                 </div>
                                             </div>
                                         </div>
