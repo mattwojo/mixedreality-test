@@ -20,7 +20,7 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                         <div class="cardPadding">
                                             <div class="card">
                                                 <div class="cardImageOuter">
-                                                    <div class="cardImage bgdAccent1">
+                                                    <div class="cardImage">
                                                         <img src="Academy/images/Holograms100.jpg" alt="Holograms 100 icon">
                                                     </div>
                                                 </div>
