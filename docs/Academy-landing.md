@@ -25,7 +25,7 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Holograms 100: Getting started with Unity</h3>
+                                                    <h3>Holograms 100: Getting started with Unity</h3><br>
                                                   <img src="Academy/images/pills.jpg" alt="pills"><br>
                                                     <p>We will walk you through creating a basic holographic app built with Unity. This project can then serve as a starting template for any holographic app you might want to build in Unity.</p>
                                                 </div>
@@ -44,7 +44,7 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Holograms 101E: Introduction with Emulator</h3>
+                                                    <h3>Holograms 101E: Introduction with Emulator</h3><br>
                                                     <img src="Academy/images/pills.jpg" alt="pills"><br>
                                                     <p>We will walk you through a complete project that introduces core Windows Holographic features including: gaze, gesture, voice, spatial sound and spatial mapping using the HoloLens emulator.</p>
                                                 </div>
@@ -63,7 +63,7 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3>Holograms 101: Introduction with Device</h3>
+                                                    <h3>Holograms 101: Introduction with Device</h3><br>
                                                   <img src="Academy/images/pills.jpg" alt="pills"><br>
                                                     <p>We will walk you through a complete project that introduces core Windows Holographic features including: gaze, gesture, voice, spatial sound and spatial mapping.</p>
                                                 </div>
