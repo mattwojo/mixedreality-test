@@ -26,7 +26,8 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Holograms 100: Getting started with Unity</h3>
-                                                    <p>We will walk you through creating a basic holographic app built with Unity. This project can then serve as a starting template for any holographic app you might want to build in Unity.</p>
+                                                    <p>We will walk you through creating a basic holographic app built with Unity. This project can then serve as a starting template for any holographic app you might want to build in Unity.</p><br>
+                                                  <img src="Academy/images/pills.jpg" alt="pills">
                                                 </div>
                                             </div>
                                         </div>
