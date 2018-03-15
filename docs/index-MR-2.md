@@ -17,29 +17,12 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                             <div class="card">
                                                 <div class="cardImageOuter">
                                                     <div class="cardImage">
-                                                        <img src="icon_Style.png" alt="Design icon" />
+                                                        <img src="images/AcademyIcon.jpg" alt="Academy icon" />
                                                     </div>
                                                 </div>
                                                 <div class="cardText">
-                                                    <h3 class="x-hidden-focus">What's new</h3>
-                                                    <p>Get the latest on new APIs and features, what's new in the docs and experimental                                             work.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                            </li>
-                            <li>
-                                    <div class="cardSize">
-                                        <div class="cardPadding">
-                                            <div class="card">
-                                                <div class="cardImageOuter">
-                                                    <div class="cardImage">
-                                                        <img src="icon_Style.png" alt="Get started" />
-                                                    </div>
-                                                </div>
-                                                <div class="cardText">
-                                                    <h3>Get started</h3>
-                                                    <p>Get the tools you need to build apps for Windows, including Windows Mixed Reality apps.</p>
+                                                    <h3 class="x-hidden-focus">Academy</h3>
+                                                  <p>See code examples, do a coding tutorial and watch guest lectures.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -70,7 +53,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                       <div class="card">
                                           <div class="cardImageOuter">
                                               <div class="cardImage">
-                                                  <img src="icon_Style.png" alt="Development icon" />
+                                                  <img src="images/DevelopIcon.jpg" alt="Develop icon">
                                               </div>
                                           </div>
                                           <div class="cardText">
@@ -87,16 +70,33 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                       <div class="card">
                                           <div class="cardImageOuter">
                                               <div class="cardImage">
-                                                  <img src="icon_Style.png" alt="Academy icon" />
+                                                  <img src="images/GetStartedIcon.jpg" alt="Get started icon" />
                                               </div>
                                           </div>
                                           <div class="cardText">
-                                              <h3>Academy</h3>
-                                              <p>See code examples, do a coding tutorial and watch guest lectures.</p>
+                                              <h3>Fundamentals</h3>
+                                              <p>Get the tools you need to build apps for Windows, including Windows Mixed Reality apps.</p>
                                           </div>
                                       </div>
                                   </div>
                               </div>
+                            </li>
+                             <li>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="images/WhatsNewIcon.jpg" alt="Resources Icon">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Resources</h3>
+                                                  <p>Modernipsum dolor sit amet tachism mail art vorticism, intervention art kinetic art sound art structuralism.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                             </li>
  </ul>
 
