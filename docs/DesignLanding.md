@@ -31,7 +31,13 @@ Extra space
 > [!NOTE]
 > here's note
 
+* Does a Bullet list have spacing
+* between each bullet
+* even if there is no line break
 
+1. But a numbered list
+2. does not have spacing between lines
+3. with no line break?
 
 # Get apps for HoloLens
 
