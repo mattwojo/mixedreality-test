@@ -85,10 +85,10 @@
 #### Article 3
 #### Article 4
 #### Article 5
-### Other
-#### [Design 2](DesignLanding-2.md)
-#### [Design 3](DesignLanding-3.md)
-#### [Design 4](DesignLanding-4.md)
-#### [Index landing page style](index.md)
-#### [Mixed Reality index page](index-MR.md)
-#### [Mixed Reality index page 2](index-MR-2.md)
+## Other
+### [Design 2](DesignLanding-2.md)
+### [Design 3](DesignLanding-3.md)
+### [Design 4](DesignLanding-4.md)
+### [Index landing page style](index.md)
+### [Mixed Reality index page](index-MR.md)
+### [Mixed Reality index page 2](index-MR-2.md)
