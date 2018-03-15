@@ -9,6 +9,29 @@ keywords: mixed reality developer docs
 
 This guidance is authored by Microsoft designers, developers, program managers, and researchers, whose work spans holographic devices (like HoloLens) and immersive devices (like the Acer and HP Windows Mixed Reality headsets). So, consider this work as a set of topics for ‘how to design for Windows head-mounted displays’.
 
+## Markdown
+
+>[!IMPORTANT]
+>one
+
+>two
+
+Extra space
+
+>  [!NOTE]
+> here's note
+
+## Markdig 
+
+> [!IMPORTANT]
+> one
+> 
+> two
+
+> [!NOTE]
+> here's note
+
+
 ## Article categories
 
 :::row:::
