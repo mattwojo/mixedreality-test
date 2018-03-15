@@ -88,6 +88,7 @@ Use the Feedback Hub to tell us which features you love, which features you coul
 > - Ensure that a non-metered network is available in order to upload cabs.
 
 ## Feedback for HoloLens
+
 1. Use the **bloom** gesture to bring up the Start menu.
 2. Select **Feedback Hub** from Start.
   ![Start Menu on Microsoft HoloLens](images/startmenu.jpg)
