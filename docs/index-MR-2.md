@@ -101,51 +101,43 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
  </ul>
 
 
-<h2>Resources</h2>
+<h2>External resources</h2>
 
-<ul class="panelContent cardsF">
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                    <div class="cardImageOuter">
-                       <div class="cardImage">
-                        <img src="icon_AppPatterns.png" alt="Get started icon"/>
-                 </div>
-             </div>
-             <div class="cardText">
-                        <h3>API reference</h3>
-                        <p><a href="https://../">Windows.Graphics.Holographic</a></p>
-                        <p><a href="https://../">Windows.Perception</a></p>
-                        <p><a href="http://..">Windows.Perception.Spatial</a></p>
-                        <p><a href="https://../">Windows.Perception.Spatial.Surface</a></p>
-                        <p><a href="https://../">Windows.UI.Input.Spatial</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-    </li>
-    <li>
-        <div class="cardSize">
-            <div class="cardPadding">
-                <div class="card">
-                 <div class="cardImageOuter">
-                    <div class="cardImage">
-                        <img src="icon_GetStarted.png" alt="Get started icon"/>
-                 </div>
-             </div>
-             <div class="cardText">
-                        <h3>Mixed Reality Toolkit</h3>
-                        <p><a href="https://..">Sharing</a></p>
-                        <p><a href="https://..">Spatial input</a></p>
-                        <p><a href="http://..">Unity Editor Motion Controller model</a></p>
-                        <p><a href="http://..">Readme</a></p>
-                        <p><a href="http://..">Microphone Stream Selector</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </li>
+<ul id="cardtypes-E" class="cardsE panelContent" style="display: flex; margin-top: 0px;">
+                            <li>
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="images/AcademyIcon.jpg" alt="Academy icon">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3 class="x-hidden-focus">Mixed Reality Toolkit (MRTK)</h3>
+                                                  <p>Futurism kinetic art neoism neo-minimalism romanticism, rococo land art modern art action painting.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                            </li>
+                            <li>
+                                  <a href="DesignLanding.md" title="Design documentation" data-linktype="absolute-path">
+                                    <div class="cardSize">
+                                        <div class="cardPadding">
+                                            <div class="card">
+                                                <div class="cardImageOuter">
+                                                    <div class="cardImage">
+                                                        <img src="images/DesignIcon.jpg" alt="Design icon">
+                                                    </div>
+                                                </div>
+                                                <div class="cardText">
+                                                    <h3>Enthusiast's Guide</h3>
+                                                    <p>Futurism kinetic art neoism neo-minimalism romanticism, rococo land art modern art action painting.</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                               </a>
+                            </li>
 </ul>
-
-
