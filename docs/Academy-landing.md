@@ -10,7 +10,7 @@ keywords: mixed reality developer docs
 The Mixed Reality Academy is a set of step-by-step tutorials: 
 * The tutorials are divided by 100 and 200 level topics. Most of them apply to both Hololens and immersive devices. 
 * Each tutorial is organized by chapter and includes video demonstrations of the key concepts. 
-* A Windows 10 PC configured with the correct [tools installed](install-the-tools.md) is a common prerequiste to complete each tutorial.
+* A Windows 10 PC with the correct [tools installed](install-the-tools.md) is a common prerequiste to complete each tutorial.
 
 <br>
 <ul id="cardtypes-W" class="cardsW panelContent" style="display: flex; margin-top: 0px;">
