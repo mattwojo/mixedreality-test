@@ -45,7 +45,8 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Holograms 101E: Introduction with Emulator</h3>
-                                                    <p>We will walk you through a complete project that introduces core Windows Holographic features including: gaze, gesture, voice, spatial sound and spatial mapping using the HoloLens emulator.</p>
+                                                    <p>We will walk you through a complete project that introduces core Windows Holographic features including: gaze, gesture, voice, spatial sound and spatial mapping using the HoloLens emulator.</p><br>
+                                                  <img src="Academy/images/pills.jpg" alt="pills">
                                                 </div>
                                             </div>
                                         </div>
@@ -63,7 +64,8 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                                 </div>
                                                 <div class="cardText">
                                                     <h3>Holograms 101: Introduction with Device</h3>
-                                                    <p>We will walk you through a complete project that introduces core Windows Holographic features including: gaze, gesture, voice, spatial sound and spatial mapping.</p>
+                                                    <p>We will walk you through a complete project that introduces core Windows Holographic features including: gaze, gesture, voice, spatial sound and spatial mapping.</p><br>
+                                                  <img src="Academy/images/pills.jpg" alt="pills">
                                                 </div>
                                             </div>
                                         </div>
@@ -82,7 +84,8 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                           </div>
                                           <div class="cardText">
                                               <h3>Holograms 210: Gaze</h3>
-                                              <p>Gaze is the first form of input, and reveals the user's intent and awareness. You will add contextual awareness to your cursor and holograms, taking full advantage of what your app knows about the user's gaze.</p>
+                                              <p>Gaze is the first form of input, and reveals the user's intent and awareness. You will add contextual awareness to your cursor and holograms, taking full advantage of what your app knows about the user's gaze.</p><br>
+                                                  <img src="Academy/images/pills.jpg" alt="pills">
                                           </div>
                                       </div>
                                   </div>
@@ -100,7 +103,8 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                           </div>
                                           <div class="cardText">
                                               <h3>Holograms 211: Gesture</h3>
-                                              <p>Gestures turn user intention into action. With gestures, users can interact with holograms. In this course, you will learn to track the user's hands, respond to user input, and give feedback based on hand state and location.</p>
+                                              <p>Gestures turn user intention into action. With gestures, users can interact with holograms. In this course, you will learn to track the user's hands, respond to user input, and give feedback based on hand state and location.</p><br>
+                                                  <img src="Academy/images/pills.jpg" alt="pills">
                                           </div>
                                       </div>
                                   </div>
@@ -118,7 +122,8 @@ The Mixed Reality Academy is a set of step-by-step tutorials:
                                           </div>
                                           <div class="cardText">
                                               <h3>Holograms 212: Voice</h3>
-                                              <p>Voice allows us to interact with our holograms in an easy and natural way. In this course, you will learn to make users aware of available voice commands, give feedback that a voice command was heard, and your app will use dictation to understand what the user is saying.</p>
+                                              <p>Voice allows us to interact with our holograms in an easy and natural way. In this course, you will learn to make users aware of available voice commands, give feedback that a voice command was heard, and your app will use dictation to understand what the user is saying.</p><br>
+                                                  <img src="Academy/images/pills.jpg" alt="pills">
                                           </div>
                                       </div>
                                   </div>
