@@ -102,7 +102,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
 
 <h2>External resources</h2>
 
-<ul id="cardtypes-E" class="cardsE panelContent" style="display: flex; margin-top: 0px;">
+<ul id="cardtypes-W" class="cardsW panelContent" style="display: flex; margin-top: 0px;">
                             <li>
                                     <div class="cardSize">
                                         <div class="cardPadding">
