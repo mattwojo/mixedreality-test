@@ -9,7 +9,6 @@ keywords: mixed reality developer docs
 
 Mixed reality blends real-world and virtual content into hybrid environments where physical and digital objects coexist and interact.
 
-<br>
 <ul id="cardtypes-W" class="cardsW panelContent" style="display: flex; margin-top: 0px;">
                             <li>
                                     <div class="cardSize">
