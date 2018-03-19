@@ -114,7 +114,7 @@ Mixed reality blends real-world and virtual content into hybrid environments whe
                                                 </div>
                                                 <div class="cardText">
                                                     <h3 class="x-hidden-focus">Mixed Reality Toolkit (MRTK)</h3>
-                                                  <p>Futurism kinetic art neoism neo-minimalism romanticism, rococo land art modern art action painting.</p>
+                                                  <p>The Mixed Reality Toolkit is a collection of scripts and components intended to accelerate development of applications targeting Microsoft HoloLens and Windows Mixed Reality headsets. The project is aimed at reducing barriers to entry to create mixed reality applications and contribute back to the community as we all grow.</p>
                                                 </div>
                                             </div>
                                         </div>
