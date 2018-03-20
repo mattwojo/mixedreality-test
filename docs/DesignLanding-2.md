@@ -253,6 +253,7 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 </div>
             </div>
         </div>
+	    </li>
 	    <li>
         <div class="cardSize">
             <div class="cardPadding">
@@ -277,5 +278,4 @@ This guidance is authored by Microsoft designers, developers, program managers, 
                 </div>
             </div>
         </div>
-    </li>    
     </li>
